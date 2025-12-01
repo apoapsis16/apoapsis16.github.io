@@ -2,11 +2,11 @@
 
 ### Programmer, technologist. Unreal Engine game developer
 
-​##​Objective​ 
+​## ​Objective​ 
 
 Seeking part or full time work. A quick learner with a variety of computer-based skills and professional experience. 
 
-​##​Skills​ 
+​## ​Skills​ 
 
     -C#/.NET, ASP.NET, C++, rust 
 
