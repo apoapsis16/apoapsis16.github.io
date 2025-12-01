@@ -20,4 +20,4 @@ Seeking part or full time work. A quick learner with a variety of computer-based
 ### Projects:
 
 ## Voyage of the Dauntless
-[Project page](https://apoapsis16.github.io/projects/Voyage)
+[Project page](projects/voyage.md)
