@@ -6,7 +6,7 @@
 
 Seeking part or full time work. A quick learner with a variety of computer-based skills and professional experience. 
 
-## Skilss
+## Skills
 
     -C#/.NET, ASP.NET, C++, rust 
 
