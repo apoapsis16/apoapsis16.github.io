@@ -1,6 +1,6 @@
 layout: page
 title: "Voyage of the Dauntless"
-permalink: /projects/Voyage
+permalink: /voyage
 
 # Voyage of the Dauntless
 
