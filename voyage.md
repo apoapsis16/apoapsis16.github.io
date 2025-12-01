@@ -6,4 +6,4 @@ permalink: /projects/Voyage
 
 ## A single player action adventuring featuring tall ships
 
-[An image of a tall ship firing a broadside](images/darkshipfiring_01.PNG)
+![An image of a tall ship firing a broadside](images/darkshipfiring_01.PNG)
