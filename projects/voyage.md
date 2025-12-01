@@ -4,4 +4,4 @@ permalink: /projects/Voyage
 
 # Voyage of the Dauntless
 
-## A single player action adventuring featuring tall ships
+## A single player action adventure featuring tall ships
