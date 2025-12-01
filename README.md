@@ -20,4 +20,4 @@ Seeking part or full time work. A quick learner with a variety of computer-based
 ### Projects:
 
 ## Voyage of the Dauntless
-[Project page](projects/voyage.md)
+[Project page](voyage.md)
