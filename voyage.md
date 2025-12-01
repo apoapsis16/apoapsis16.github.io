@@ -8,4 +8,6 @@ permalink: /voyage
 
 ![Ships at sunset](images/ScreenShot00010.png)
 
+![Screen with UI](images/ScreenShot00005.png)
+
 ![Ship firing](images/darkshipfiring_01.PNG)
