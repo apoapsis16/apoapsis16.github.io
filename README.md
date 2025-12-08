@@ -4,7 +4,7 @@
 
 ## Objective
 
-Seeking part or full time work. A quick learner with a variety of computer-based skills and professional experience. 
+A quick learner with a variety of computer-based skills and professional experience. 
 
 ![selfie of Kevin Kipp](images/selfie.jpg)
 
