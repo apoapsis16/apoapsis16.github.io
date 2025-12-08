@@ -7,7 +7,13 @@ permalink: /voyage
 ## A single player action adventure featuring tall ships
 
 ![Ships at sunset](images/ScreenShot00010.png)
+### Unreal Engine 5 action game featuring tall ships
 
 ![Screen with UI](images/ScreenShot00005.png)
+### All programming, modeling & rigging, UI, and design by me
+
+![Screen with UI](images/controlRig.png)
+### Custom Unreal Control Rig implementation
 
 ![Ship firing](images/darkshipfiring_01.PNG)
+
