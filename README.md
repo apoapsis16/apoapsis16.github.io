@@ -18,6 +18,10 @@ A quick learner with a variety of computer skills and professional experience.
 
     -Engineering experience on complex systems 
 
+    -Experience interfacing hardware and software
+
+    -familiarity with Python, LabVIEW
+
  
 ### Projects:
 
