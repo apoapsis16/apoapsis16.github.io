@@ -27,6 +27,3 @@ A quick learner with a variety of computer skills and professional experience.
 
 ## Voyage of the Dauntless
 [Project page](voyage.md)
-
-## Space Dog 
-[Project page](spacedog.md)
