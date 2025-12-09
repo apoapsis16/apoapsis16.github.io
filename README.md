@@ -16,7 +16,7 @@ A quick learner with a variety of computer skills and professional experience.
 
     -Task oriented time manager  
 
-    -Engineering experience on complex systems 
+    -Manufacturing Test Engineering experience
 
     -Experience interfacing hardware and software
 
