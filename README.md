@@ -4,7 +4,7 @@
 
 ## Objective
 
-A quick learner with a variety of computer-based skills and professional experience. 
+A quick learner with a variety of computer skills and professional experience. 
 
 ![selfie of Kevin Kipp](images/selfie.jpg)
 
@@ -16,7 +16,11 @@ A quick learner with a variety of computer-based skills and professional experie
 
     -Task oriented time manager  
 
-    -Engineering experience on complex systems 
+    -Manufacturing Test Engineering experience
+
+    -Experience interfacing hardware and software
+
+    -familiarity with Python, LabVIEW
 
  
 ### Projects:
