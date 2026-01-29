@@ -6,6 +6,8 @@
 
 A quick learner with a variety of computer skills and professional experience. 
 
+See my other public repositories [here](https://github.com/apoapsis16).
+
 ![selfie of Kevin Kipp](images/selfie002.jpg)
 
 ## Skills
