@@ -1,5 +1,4 @@
-layout: page
-title: "Voyage of the Dauntless"
+page title: "Voyage of the Dauntless"
 permalink: /voyage
 
 # Voyage of the Dauntless
