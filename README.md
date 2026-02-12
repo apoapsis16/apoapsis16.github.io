@@ -8,7 +8,7 @@ Highly adaptable professional with a variety of technical skills and experience.
 
 See my other public repositories [here](https://github.com/apoapsis16).
 
-![selfie of Kevin Kipp](images/selfie002.jpg)
+<!-- ![selfie of Kevin Kipp](images/selfie002.jpg) -->
 
 ## Skills
 
