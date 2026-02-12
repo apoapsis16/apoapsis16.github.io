@@ -11,7 +11,7 @@ permalink: /voyage
 ![USS Constitution](images/ScreenShot00014.png)
 
 ![Screen with UI](images/ScreenShot00005.png)
-### All programming, modeling & rigging, UI, and design by me
+### All programming, modeling, rigging, UI, and design by me
 
 ![Screen with UI](images/controlRig.png)
 ### Custom Unreal Control Rig implementation
