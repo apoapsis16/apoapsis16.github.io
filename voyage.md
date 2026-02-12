@@ -8,8 +8,6 @@ permalink: /voyage
 ![Ships at sunset](images/ScreenShot00010.png)
 ### Unreal Engine 5 action game featuring tall ships
 
-![USS Constitution](images/constitution_SPrender000.jpeg)
-
 ![USS Constitution2](images/ScreenShot00014.png)
 
 ![Screen with UI](images/ScreenShot00005.png)
@@ -20,3 +18,5 @@ permalink: /voyage
 
 ![Ship firing](images/darkshipfiring_01.PNG)
 
+### Hand built scale-accurate model of the USS Constitution made for the game.
+![USS Constitution](images/constitution_SPrender000.jpeg)
