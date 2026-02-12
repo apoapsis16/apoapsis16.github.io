@@ -3,10 +3,9 @@ permalink: /voyage
 
 # Voyage of the Dauntless
 
-## A single player action adventure featuring tall ships
+## A single player action adventure featuring tall ships made for Unreal Engine 5
 
 ![Ships at sunset](images/ScreenShot00010.png)
-### Unreal Engine 5 action game featuring tall ships
 
 ![USS Constitution2](images/ScreenShot00014.png)
 
