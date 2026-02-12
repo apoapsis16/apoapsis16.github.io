@@ -12,17 +12,14 @@ See my other public repositories [here](https://github.com/apoapsis16).
 
 ## Skills
 
-    -C#/.NET, ASP.NET, C++, rust 
-
-    -Effective communicator  
-
+    -C#/VB/.NET, ASP.NET, XML, SQL 
+    -IT Help deck support experience
+    -Manufacturing experience, JIT, Quality KPI’s
+    -Computer/IT hardware maintenance, assembly, troubleshooting experience
+    -Git, Team Foundation, Perforce source control 
+    -DB/SQL Server Management
+    -Effective, clear communicator  
     -Task oriented time manager  
-
-    -Manufacturing Test Engineering experience
-
-    -Experience interfacing hardware and software
-
-    -familiarity with Python, LabVIEW
 
  
 ### Projects:
