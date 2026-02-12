@@ -4,7 +4,7 @@
 
 ## Objective
 
-A quick learner with a variety of computer skills and professional experience. 
+Highly adaptable professional with a variety of technical skills and experience.
 
 See my other public repositories [here](https://github.com/apoapsis16).
 
