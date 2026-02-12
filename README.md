@@ -24,5 +24,8 @@ See my other public repositories [here](https://github.com/apoapsis16).
  
 ### Projects:
 
-## Voyage of the Dauntless
+## Voyage of the Dauntless, an Unreal Engine action game
 [Project page](voyage.md)
+
+## USB-SPI Demo Toy, a project to demonstrate some practical programming with electronic hardware
+[Github project](https://github.com/apoapsis16/USB-SPI-Demo-Toy)
