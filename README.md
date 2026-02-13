@@ -2,9 +2,7 @@
 
 ### Programmer, technologist. Unreal Engine game developer
 
-## Objective
-
-Highly adaptable professional with a variety of technical skills and experience.
+I am a highly adaptable professional with a variety of technical skills and experience.
 
 See my other public repositories [here](https://github.com/apoapsis16).
 
@@ -24,8 +22,8 @@ See my other public repositories [here](https://github.com/apoapsis16).
  
 ### Projects:
 
-## Voyage of the Dauntless, an Unreal Engine action game
+# Voyage of the Dauntless, an Unreal Engine action game
 [Project page](voyage.md)
 
-## USB-SPI Demo Toy, a project to demonstrate some practical programming with electronic hardware
+# USB-SPI Demo Toy, a project to demonstrate some practical programming with electronic hardware
 [Github project](https://github.com/apoapsis16/USB-SPI-Demo-Toy)
