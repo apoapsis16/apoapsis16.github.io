@@ -17,5 +17,5 @@ permalink: /voyage
 
 ![Ship firing](images/darkshipfiring_01.PNG)
 
-### Hand built and fully rigged (no pun intended) 3D model of the USS Constitution made for the game.
+### Hand built in Blender and fully rigged (no pun intended) 3D model of the USS Constitution made for the game. PBR textures made in Substance Painter.
 ![USS Constitution](images/constitution_SPrender000.jpeg)
